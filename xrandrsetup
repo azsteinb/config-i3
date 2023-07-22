@@ -1,0 +1,1 @@
+exec autorandr --load santacruz &
