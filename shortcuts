@@ -1,3 +1,4 @@
 # This controls my added shortcuts
 bindsym $mod+Shift+Return exec firefox
 bindsym $mod+Shift+p exec i3lock -c 000000
+bindsym $mod+Shift+m exec alacritty --command spt
